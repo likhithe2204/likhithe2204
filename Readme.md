@@ -22,7 +22,7 @@
 ## 🧠 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/notLikhith?theme=unicorn&ext=activity" width="400" />
+  <img src="https://leetcard.jacoblin.cool/notLikhith?ext=heatmap" width="400" />
 </p>
 
 <p align="center">
