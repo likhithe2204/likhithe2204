@@ -33,8 +33,8 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/likhithe2204/likhithe2204/main/assets/LC_50days.gif" width="100" height="100" alt="50 Day Badge" />
-  <img src="https://raw.githubusercontent.com/likhithe2204/likhithe2204/main/assets/LC_100days.gif" width="100" height="100" alt="100 Day Badge" />
+  <img src="https://raw.githubusercontent.com/likhithe2204/likhithe2204/main/assets/LC_50days.gif" width="200" height="200" alt="50 Day Badge" />
+  <img src="https://raw.githubusercontent.com/likhithe2204/likhithe2204/main/assets/LC_100days.gif" width="200" height="200" alt="100 Day Badge" />
 </p>
 
 ---
