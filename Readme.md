@@ -26,8 +26,10 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/likhithe2204/likhithe2204/main/assets/LC_50days.png" alt="50 Days Badge" width="100" height="100" />
-  <img src="https://raw.githubusercontent.com/likhithe2204/likhithe2204/main/assets/LC_100days.png" alt="100 Days Badge" width="100" height="100" />
+  <a href="https://leetcode.com/u/notLikhith/" target="_blank">
+    <img align="center" src="https://leetcode.com/medal/?showImg=0&id=6807901&isLevel=false" alt="50 Day Badge" height="100" width="100" />
+    <img align="center" src="https://leetcode.com/medal/?showImg=0&id=7201403&isLevel=false" alt="100 Day Badge" height="100" width="100" />
+  </a>
 </p>
 
 
