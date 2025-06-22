@@ -25,21 +25,15 @@
   <img src="https://leetcard.jacoblin.cool/notLikhith?ext=heatmap" width="400" />
 </p>
 
+---
+
+
+## 🏆 LeetCode Badges
+
 <p align="center">
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=notLikhith&animated=true" alt="LeetCode Badges" />
 </p>
 
-<p align="center">
-  <a href="https://leetcode.com/u/notLikhith/" target="_blank">
-    <img src="https://raw.githubusercontent.com/likhithe2204/likhithe2204/main/assets/LC_50days.gif" width="100" height="100" alt="50 Day Badge" />
-    <img src="https://raw.githubusercontent.com/likhithe2204/likhithe2204/main/assets/LC_100days.gif" width="100" height="100" alt="100 Day Badge" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/likhithe2204/likhithe2204/main/assets/LC_50days.gif" width="150" height="150" alt="50 Day Badge" />
-  <img src="https://raw.githubusercontent.com/likhithe2204/likhithe2204/main/assets/LC_100days.gif" width="150" height="150" alt="100 Day Badge" />
-</p>
 
 ---
 
