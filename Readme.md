@@ -72,8 +72,8 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=likhithe2204&show_icons=true&theme=radical&hide_border=false&bg_color=00000000&rank_icon=github" alt="GitHub Stats" width="47%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=likhithe2204&theme=radical&hide_border=false" alt="GitHub Streak" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=likhithe2204&show_icons=true&theme=radical&hide_border=false&bg_color=00000000&rank_icon=github" alt="GitHub Stats" width="47%" />
 </p>
 
 <p align="center">
