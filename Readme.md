@@ -22,7 +22,7 @@
 ## 🧠 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/notLikhithD?theme=unicorn&ext=activity" width="400" />
+  <img src="https://leetcard.jacoblin.cool/notLikhith?theme=unicorn&ext=activity" width="400" />
 </p>
 <p align="center">
   <a href="https://leetcode.com/u/notLikhith/" target="_blank"><img align="center" src="https://leetcode.com/medal/?showImg=0&id=6807901&isLevel=false" alt="jyot" height="100" width="100" /></a>
