@@ -1,90 +1,82 @@
-<h1 align="center">Hi 👋, I'm Satuluri Rama Shesha Sai</h1>
-<h3 align="center"> I am a student of SRM University, specialized in Computer Science. I have maintained my CGPA of 9.12. A Prassionate Web Developer With Good Problem Solving Skills</h3>
+<h1 align="center">Hi 👋, I'm Likhith Edupuganti</h1>
+<h3 align="center">I'm a Computer Science student at SRM University, passionate about Web Development and Machine Learning with strong problem-solving skills and a CGPA of 8.80.</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ramasheshasai&label=Profile%20views&color=0e75b6&style=flat" alt="ramasheshasai" />
+  <img src="https://komarev.com/ghpvc/?username=likhithe2204&label=Profile%20views&color=0e75b6&style=flat" alt="likhithe2204" />
 </p>
-
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ramasheshasai&theme=onedark&row=1&column=6" alt="ramasheshasai trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=likhithe2204&theme=onedark&row=1&column=6" alt="likhithe2204 trophies" />
   </a>
 </p>
 
-- 🌱 I’m currently learning **Java, Node.js, MongoDB**
-- 👨‍💻 All of my projects are available at [My Portfolio](https://ramasheshasai.github.io/rama-shesha-sai-portfolio/report.html)
-
-- 📫 Reach me at: **ramasheshasai_s@srmap.edu.in**
-
+- 🔭 I’m currently working on **Machine Learning & Web Projects**
+- 🌱 I’m learning **Java, Node.js, MongoDB**
+- 💼 Summer Intern at **Edunet Foundation (AI/ML)** and **Raise Digital (Frontend Dev)**
+- 👨‍💻 All of my projects are available at: [My Portfolio](https://portfoliobylikhith.netlify.app/)
+- 📫 Reach me at: **likhith_edupuganti@srmap.edu.in**
 
 ---
 
 ## 🧠 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/S_RAMA_SHESHA_SAI?theme=unicorn&ext=activity" width="400" />
+  <img src="https://leetcard.jacoblin.cool/notLikhithD?theme=unicorn&ext=activity" width="400" />
 </p>
 <p align="center">
-  <a href="https://leetcode.com/S_RAMA_SHESHA_SAI/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="100" width="100" /></a>
-  <a href="https://leetcode.com/S_RAMA_SHESHA_SAI/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="jyot" height="100" width="100" /></a>
-  <a href="https://leetcode.com/S_RAMA_SHESHA_SAI/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="100" width="100" /></a>
-  <a href="https://leetcode.com/S_RAMA_SHESHA_SAI/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="100" width="100" /></a>
+  <a href="https://leetcode.com/u/notLikhith/" target="_blank">
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" height="100" width="100" />
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" height="100" width="100" />
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" height="100" width="100" />
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" height="100" width="100" />
+  </a>
 </p>
 
 ---
+
 ### 🌐 Connect with me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ramasheshasai/" target="_blank">
+  <a href="https://www.linkedin.com/in/likhithedupuganti/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
-  <a href="https://www.facebook.com/ramasheshasai.satuluri/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/rama_shesha_sai" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-  </a>
-
-  <a href="https://www.hackerrank.com/ap22110011120" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/s_rama_shesha_sai" target="_blank">
+  <a href="https://leetcode.com/u/notLikhith/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages ,Tools And FrameWorks 🛠️
+### 🛠️ Languages, Tools & Frameworks
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MS SQL" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40" />
+</p>
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> &nbsp;&nbsp;
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-</p>
 ---
+
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramasheshasai&show_icons=true&theme=radical&hide_border=false&bg_color=00000000&rank_icon=github" alt="GitHub Stats" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramasheshasai&theme=radical&hide_border=false" alt="GitHub Streak" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=likhithe2204&show_icons=true&theme=radical&hide_border=false&bg_color=00000000&rank_icon=github" alt="GitHub Stats" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=likhithe2204&theme=radical&hide_border=false" alt="GitHub Streak" width="47%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramasheshasai&layout=compact&theme=radical&hide_border=false" alt="Top Languages" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhithe2204&layout=compact&theme=radical&hide_border=false" alt="Top Languages" width="50%" />
 </p>
