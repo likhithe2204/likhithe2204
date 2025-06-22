@@ -26,10 +26,8 @@
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/u/notLikhith/" target="_blank">
-    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50 Day Badge" height="100" width="100" />
-    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="100 Day Badge" height="100" width="100" />
-  </a>
+  <img src="https://raw.githubusercontent.com/likhithe2204/likhithe2204/main/assets/LC_50days.png" alt="50 Days Badge" width="100" height="100" />
+  <img src="https://raw.githubusercontent.com/likhithe2204/likhithe2204/main/assets/LC_100days.png" alt="100 Days Badge" width="100" height="100" />
 </p>
 
 
