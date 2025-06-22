@@ -12,7 +12,7 @@
 </p>
 
 - 🔭 I’m currently working on **Machine Learning & Web Projects**
-- 🌱 I’m learning **Java, Node.js, MongoDB**
+- 🌱 I’m learning **Java**
 - 💼 Internships at **Edunet Foundation (AI/ML)** & **Raise Digital (Frontend Dev)**
 - 👨‍💻 Portfolio: [My Portfolio](https://portfoliobylikhith.netlify.app/)
 - 📫 Reach me at: **likhith_edupuganti@srmap.edu.in**
@@ -24,12 +24,17 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/notLikhith?theme=unicorn&ext=activity" width="400" />
 </p>
+
+---
+
+## 🏆 LeetCode Achievement Badges
+
 <p align="center">
-  <a href="https://leetcode.com/u/notLikhith/" target="_blank">
-    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" height="100" width="100" />
-    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" height="100" width="100" />
-    <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" height="100" width="100" />
-    <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" height="100" width="100" />
+  <a href="https://leetcode.com/medal/?showImg=0&id=6807901&isLevel=false" target="_blank">
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-50.gif" height="100" width="100" alt="50 Days Badge"/>
+  </a>
+  <a href="https://leetcode.com/medal/?showImg=0&id=7201403&isLevel=false" target="_blank">
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-100.gif" height="100" width="100" alt="100 Days Badge"/>
   </a>
 </p>
 
