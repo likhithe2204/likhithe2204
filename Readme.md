@@ -13,8 +13,8 @@
 
 - 🔭 I’m currently working on **Machine Learning & Web Projects**
 - 🌱 I’m learning **Java, Node.js, MongoDB**
-- 💼 Summer Intern at **Edunet Foundation (AI/ML)** and **Raise Digital (Frontend Dev)**
-- 👨‍💻 All of my projects are available at: [My Portfolio](https://portfoliobylikhith.netlify.app/)
+- 💼 Internships at **Edunet Foundation (AI/ML)** & **Raise Digital (Frontend Dev)**
+- 👨‍💻 Portfolio: [My Portfolio](https://portfoliobylikhith.netlify.app/)
 - 📫 Reach me at: **likhith_edupuganti@srmap.edu.in**
 
 ---
@@ -22,7 +22,7 @@
 ## 🧠 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/notLikhithD?theme=unicorn&ext=activity" width="400" />
+  <img src="https://leetcard.jacoblin.cool/notLikhith?theme=unicorn&ext=activity" width="400" />
 </p>
 <p align="center">
   <a href="https://leetcode.com/u/notLikhith/" target="_blank">
@@ -38,7 +38,7 @@
 ### 🌐 Connect with me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/likhithedupuganti/" target="_blank">
+  <a href="https://www.linkedin.com/in/likhith-edupuganti-36a869258/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
   <a href="https://leetcode.com/u/notLikhith/" target="_blank">
