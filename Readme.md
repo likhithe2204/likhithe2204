@@ -22,13 +22,13 @@
 ## 🧠 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/notLikhith?ext=heatmap" width="400" />
+  <img src="https://leetcard.jacoblin.cool/notLikhith?ext=heatmap" width="500" />
 </p>
 
 ---
 
 
-## ⚡️ Consistency ⚡️
+## ⚡️ Current Badges
 
 <p align="center">
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=notLikhith&animated=true" alt="LeetCode Badges" />
