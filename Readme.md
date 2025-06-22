@@ -28,7 +28,7 @@
 ---
 
 
-## 🏆 LeetCode Badges
+## ⚡️ Consistency ⚡️
 
 <p align="center">
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=notLikhith&animated=true" alt="LeetCode Badges" />
