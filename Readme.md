@@ -24,9 +24,12 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/notLikhith?theme=unicorn&ext=activity" width="400" />
 </p>
+
 <p align="center">
-  <a href="https://leetcode.com/u/notLikhith/" target="_blank"><img align="center" src="https://leetcode.com/medal/?showImg=0&id=6807901&isLevel=false" alt="jyot" height="100" width="100" /></a>
-  <a href="https://leetcode.com/u/notLikhith/" target="_blank"><img align="center" src="https://leetcode.com/medal/?showImg=0&id=7201403&isLevel=false" alt="jyot" height="100" width="100" /></a>
+  <a href="https://leetcode.com/u/notLikhith/" target="_blank">
+    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50 Day Badge" height="100" width="100" />
+    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="100 Day Badge" height="100" width="100" />
+  </a>
 </p>
 
 
