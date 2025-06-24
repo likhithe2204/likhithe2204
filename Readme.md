@@ -73,13 +73,12 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=likhithe2204&show_icons=true&theme=radical&hide_border=false&bg_color=00000000&rank_icon=github" width="47%" />
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=likhithe2204&theme=radical" width="47%" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=likhithe2204&theme=radical" width="47%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhithe2204&layout=compact&theme=radical&hide_border=false" width="50%" />
 </p>
+
 
 ___
