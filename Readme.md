@@ -72,13 +72,16 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=likhithe2204&show_icons=true&theme=radical&hide_border=false&bg_color=00000000&rank_icon=github" alt="GitHub Stats" width="47%" />
-  <img src="https://github.com/likhithe2204/likhithe2204/assets/137492252/f4d2571c-61e5-4f4d-8870-9e4df537e1b0" alt="GitHub Streak" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=likhithe2204&show_icons=true&theme=radical&hide_border=false&bg_color=00000000&rank_icon=github" width="47%" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=likhithe2204&theme=radical" width="47%" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhithe2204&layout=compact&theme=radical&hide_border=false" alt="Top Languages" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhithe2204&layout=compact&theme=radical&hide_border=false" width="50%" />
 </p>
+
 
 
 ___
