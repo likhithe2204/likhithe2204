@@ -73,7 +73,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=likhithe2204&show_icons=true&theme=radical&hide_border=false&bg_color=00000000&rank_icon=github" alt="GitHub Stats" width="47%" />
-  <img src="https://github-readme-streak-stats.demolab.com/?user=likhithe2204&theme=radical&hide_border=false" alt="GitHub Streak" width="47%" />
+  <img src="https://img.shields.io/endpoint?url=https://github-readme-streak-stats.demolab.com/api/streak?username=likhithe2204" alt="GitHub Streak" />
 </p>
 
 <p align="center">
