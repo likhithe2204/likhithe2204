@@ -21,7 +21,9 @@
 
   ## 🧠 LeetCode Stats
 
-
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/notLikhith?ext=heatmap" width="500" />
+</p>
 
 ---
 
