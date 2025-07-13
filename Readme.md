@@ -11,15 +11,15 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **Machine Learning & Web Projects**
-- 🌱 I’m learning **Java**
-- 💼 Internships at **Edunet Foundation (AI/ML)** & **Raise Digital (Frontend Dev)**
-- 👨‍💻 Portfolio: [My Portfolio](https://portfoliobylikhith.netlify.app/)
-- 📫 Reach me at: **likhith_edupuganti@srmap.edu.in**
+- 🔭 I’m currently working on **Machine Learning & Web Projects**  
+- 🌱 I’m learning **Java**  
+- 💼 Internships at **Edunet Foundation (AI/ML)** & **Raise Digital (Frontend Dev)**  
+- 👨‍💻 Portfolio: [My Portfolio](https://portfoliobylikhith.netlify.app/)  
+- 📢 Reach me at: **likhith_edupuganti@srmap.edu.in**
 
 ---
 
-  ## 🧠 LeetCode Stats
+## 🧠 LeetCode Stats
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/notLikhith?ext=heatmap" width="500" />
@@ -27,18 +27,15 @@
 
 ---
 
-
-  ## ⚡️ Current Badges
+## ⚡️ Current Badges
 
 <p align="center">
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=notLikhith&animated=true" alt="LeetCode Badges" />
 </p>
 
-
 ---
 
-
-  ### 🌐 Connect with me
+### 🌐 Connect with me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/likhith-edupuganti-36a869258/" target="_blank">
@@ -51,7 +48,7 @@
 
 ---
 
-  ### 🛠️ Languages, Tools & Frameworks
+### 🛠️ Languages, Tools & Frameworks
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
@@ -79,6 +76,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhithe2204&layout=compact&theme=radical&hide_border=false" width="50%" />
 </p>
-
-
-___
