@@ -47,6 +47,24 @@
 
 ---
 
+## 🎖️ LeetCode Achievements
+
+<!-- Animated full badge showcase -->
+<p align="center">
+  <img 
+    src="https://leetcode-badge-showcase.vercel.app/api?username=notLikhith&theme=dark&animated=true&border=no-border" 
+    alt="LeetCode Badges" />
+</p>
+
+<!-- Annual badges section (like 50/100 days) -->
+<p align="center">
+  <img 
+    src="https://leetcode-badge-showcase.vercel.app/api?username=notLikhith&theme=dark&animated=true&border=no-border&filter=annual" 
+    alt="Annual LeetCode Badges" />
+</p>
+
+---
+
 ### 🌐 Connect with me
 
 <p align="center">
