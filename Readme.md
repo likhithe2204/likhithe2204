@@ -23,7 +23,7 @@
 
 
 
-<h2 align="center">💺 My LeetCode</h2>  
+<h1 align="center">💺 My LeetCode</h1>  
 
 <p align="center">
   <a href="https://leetcode.com/u/notLikhith/" target="_blank">
