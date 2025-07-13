@@ -21,7 +21,7 @@
 
 <div align="center"> 
 
-<h2 align="center">My LeetCode</h2>  
+<h2 align="center">🎖️ My LeetCode</h2>  
 
 <p align="center">
   <a href="https://leetcode.com/u/notLikhith/" target="_blank">
@@ -45,14 +45,14 @@
 </div>
 
 ---
-
+<!--
 ## 🧠 LeetCode Stats
 
 <!--
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/notLikhith?ext=heatmap" width="500" />
 </p>
--->
+
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/notLikhith?theme=dark&font=Karla&ext=heatmap" width="600" />
@@ -62,18 +62,18 @@
 
 ## 🎖️ LeetCode Achievements
 
-<!--
+
 <p align="center">
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=notLikhith&animated=true" alt="LeetCode Badges" />
 </p>
--->
+
 
 <p align="center">
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=notLikhith&theme=dark&animated=true&border=no-border" alt="LeetCode Badges" />
 </p>
 
 ---
-
+-->
 
 ### 🌐 Connect with me
 
