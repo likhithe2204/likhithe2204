@@ -67,6 +67,10 @@
 />
 </p>
 
+<p align="center">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=notLikhith&theme=dark&animated=true&border=no-border" alt="LeetCode Animated Badges" />
+</p>
+
 ---
 
 ### 🌐 Connect with me
