@@ -30,9 +30,11 @@
   <a href="https://leetcode.com/u/notLikhith/" target="_blank">
     <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="100 Days of 2024" height="200" width="200" />
   </a>
+  <!--
   <a href="https://leetcode.com/u/notLikhith/" target="_blank">
     <img align="center" src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-09.gif" alt="September 2024" height="200" width="200" />
   </a>
+  -->
 </p>
 
 <p align="center">
