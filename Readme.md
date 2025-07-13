@@ -49,18 +49,22 @@
 
 ## 🎖️ LeetCode Achievements
 
-<!-- Animated full badge showcase -->
+<!-- 🔹 Full animated badge showcase (includes streaks, contests, annual etc.) -->
 <p align="center">
   <img 
     src="https://leetcode-badge-showcase.vercel.app/api?username=notLikhith&theme=dark&animated=true&border=no-border" 
-    alt="LeetCode Badges" />
+    alt="LeetCode All Badges" 
+    width="600"
+/>
 </p>
 
-<!-- Annual badges section (like 50/100 days) -->
+<!-- 🔸 Annual badges only (like 50-day, 100-day) -->
 <p align="center">
   <img 
-    src="https://leetcode-badge-showcase.vercel.app/api?username=notLikhith&theme=dark&animated=true&border=no-border&filter=annual" 
-    alt="Annual LeetCode Badges" />
+    src="https://leetcode-badge-showcase.vercel.app/api?username=notLikhith&theme=dark&animated=false&border=no-border&filter=annual" 
+    alt="LeetCode Annual Badges" 
+    width="600"
+/>
 </p>
 
 ---
