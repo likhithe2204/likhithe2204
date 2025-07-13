@@ -25,6 +25,10 @@
   <img src="https://leetcard.jacoblin.cool/notLikhith?ext=heatmap" width="500" />
 </p>
 
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/notLikhith?theme=dark&font=Karla&ext=heatmap" width="600" />
+</p>
+
 ---
 
 ## ⚡️ Current Badges
