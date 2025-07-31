@@ -3,7 +3,7 @@
  
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=likhithe2204&label=Profile%20views&color=0e75b6&style=flat" alt="likhithe2204" />
-</p> 
+</p>  
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"> 
