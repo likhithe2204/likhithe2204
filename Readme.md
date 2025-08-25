@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Likhith Edupuganti</h1>
 <h3 align="center">I'm a Computer Science student at SRM University, passionate about Web Development and Machine Learning with strong problem-solving skills and a CGPA of 8.80.</h3> 
- 
+  
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=likhithe2204&label=Profile%20views&color=0e75b6&style=flat" alt="likhithe2204" />
 </p>    
