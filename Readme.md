@@ -40,15 +40,6 @@
   <img src="https://readmecodegen.vercel.app/api/leetcode-stats/notLikhith?theme=gradient&reputation=false&font=%27JetBrains+Mono%27%2C+%27Courier+New%27%2C+monospace" width="400" />
 </p>
 
-<p align="center">
-  <img 
-    src="https://leetcodestatscard.fborges.dev/card?card=minimal&username=notLikhith&font=inter&theme=light&border=true&borderRadius=10&graph=true&links=true&streak=true&icons=true" 
-    alt="LeetCode Stats" 
-  />
-</p>
-
-
-
 </div>
 
 <hr/>
