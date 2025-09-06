@@ -34,8 +34,9 @@
 </p>
 
 <p align="center">
-  <!-- <img align="top" src="https://leetcard.jacoblin.cool/notLikhith?ext=heatmap"/> -->
-  <img src="https://readmecodegen.vercel.app/api/leetcode-stats/notLikhith?acceptance=false&reputation=false" width="400" />
+  <!-- <img align="top" src="https://leetcard.jacoblin.cool/notLikhith?ext=heatmap"/> 
+  <img src="https://readmecodegen.vercel.app/api/leetcode-stats/notLikhith?acceptance=false&reputation=false" width="400" /> -->
+  <img src="https://readmecodegen.vercel.app/api/leetcode-stats/notLikhith?theme=gradient&acceptance=false&reputation=false" width="400" />
 </p>
 
 </div>
