@@ -34,8 +34,9 @@
 </p>
 
 <p align="center">
-  <img align="top" src="https://leetcard.jacoblin.cool/notLikhith?ext=heatMap"/>
+  <img align="top" src="https://leetcard.jacoblin.cool/notLikhith?ext=heatmap"/>
 </p>
+
 </div>
 
 <hr/>
