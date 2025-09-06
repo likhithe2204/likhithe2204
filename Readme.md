@@ -34,7 +34,8 @@
 </p>
 
 <p align="center">
-  <img align="top" src="https://leetcard.jacoblin.cool/notLikhith?ext=heatmap"/>
+  <!-- <img align="top" src="https://leetcard.jacoblin.cool/notLikhith?ext=heatmap"/> -->
+  <img src="https://readmecodegen.vercel.app/api/leetcode-stats/notLikhith?acceptance=false&reputation=false" width="400" />
 </p>
 
 </div>
