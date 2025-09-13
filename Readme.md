@@ -64,10 +64,11 @@
   <a href="https://www.geeksforgeeks.org/user/likhithed6qu1/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" height="40" width="40" />
   </a>
-  <!-- Code360 / Coding Ninjas using open-source SVG -->
+  <!-- Code360 / Coding Ninjas (SVG override color) -->
 <a href="https://www.naukri.com/code360/profile/codebylikhith" target="_blank">
-  <img src="https://www.svgrepo.com/show/330198/codingninjas.svg" alt="Code360 by Coding Ninjas" height="40" width="40" />
+  <img src="https://svgmix.com/item/zQagOM/codingninjas.svg" alt="Code360 by Coding Ninjas" height="40" width="40" style="filter: hue-rotate(20deg) saturate(4) brightness(0.9);" />
 </a>
+
 
 
 </p>
