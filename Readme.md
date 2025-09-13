@@ -29,28 +29,12 @@
     <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50 Days badge of 2024" height="200" width="200" />
   </a>
   <a href="https://leetcode.com/u/notLikhith/" target="_blank">
-    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="200 Days badge of 2024" height="200" width="200" />
-  </a>
-  <a href="https://leetcode.com/u/notLikhith/" target="_blank">
     <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="100 Days of 2024" height="200" width="200" />
   </a>
-</p>
-
-<div align="center"> 
-<h2 align="center">👨🏻‍💻 My LeetCode</h2>  
-
-<p align="center">
   <a href="https://leetcode.com/u/notLikhith/" target="_blank">
-    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50 Days badge" height="200" width="200" />
-  </a>
-  <a href="https://leetcode.com/u/notLikhith/" target="_blank">
-    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="100 Days badge" height="200" width="200" />
-  </a>
-  <a href="https://leetcode.com/u/notLikhith/" target="_blank">
-    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="200 Days badge" height="200" width="200" />
+    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="200 Days badge of 2024" height="200" width="200" />
   </a>
 </p>
-</div>
 
 
 <p align="center">
