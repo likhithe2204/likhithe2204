@@ -50,11 +50,11 @@
 
 <h3 align="center">📉 Connect with me</h3>
 <p align="center">
-  <a href="https://www.naukri.com/code360/profile/codebylikhith" target="_blank">
-    <img src="https://cdn.simpleicons.org/codingninjas/FF6F00" alt="Code360 by Coding Ninjas" height="30" width="30" />
-  </a>
   <a href="https://www.linkedin.com/in/likhith-edupuganti-36a869258/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <a href="https://www.naukri.com/code360/profile/codebylikhith" target="_blank">
+    <img src="https://cdn.simpleicons.org/codingninjas/FF6F00" alt="Code360 by Coding Ninjas" height="30" width="30" />
   </a>
   <a href="https://leetcode.com/u/notLikhith/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
