@@ -62,10 +62,6 @@
     <img src="https://www.svgrepo.com/show/330198/codingninjas.svg" alt="Code360 / CodingNinjas" height="40" width="40" />
   </a>
 
-  <a href="https://www.naukri.com/code360/profile/codebylikhith" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Coding_Ninjas_Logo.svg" alt="Code360 / Coding Ninjas" height="40"       width="40" />
-  </a>
-
 
 </p>
 
