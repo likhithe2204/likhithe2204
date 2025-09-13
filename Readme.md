@@ -62,9 +62,11 @@
     <img src="https://www.svgrepo.com/show/330198/codingninjas.svg" alt="Code360 / CodingNinjas" height="40" width="40" />
   </a>
   <a href="https://www.geeksforgeeks.org/user/likhithed6qu1/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" height="40" width="40" />
-</a>
-
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" height="40" width="40" />
+  </a>
+  <a href="https://www.naukri.com/code360/profile/codebylikhith" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Coding_Ninjas_logo.svg" alt="Code360 by Coding Ninjas" height="40" width="40" />
+  </a>
 
 </p>
 
