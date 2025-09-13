@@ -62,8 +62,8 @@
     <img src="https://www.svgrepo.com/show/330198/codingninjas.svg" alt="Code360 / CodingNinjas" height="40" width="40" />
   </a>
   <a href="https://www.geeksforgeeks.org/user/likhithed6qu1/" target="_blank">
-    <img src="https://www.svgrepo.com/show/306086/geeksforgeeks.svg" alt="GFG / GeeksforGeeks" height="40" width="40" />
-  </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" height="40" width="40" />
+</a>
 
 
 </p>
