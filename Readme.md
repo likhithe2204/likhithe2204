@@ -58,6 +58,9 @@
   <a href="https://codolio.com/profile/Likhith22" target="_blank">
     <img src="https://codolio.com/codolio_assets/codolio.svg" alt="Codolio" height="40" width="40" />
   </a>
+  <a href="https://www.naukri.com/code360/profile/codebylikhith" target="_blank">
+    <img src="https://www.svgrepo.com/show/330198/codingninjas.svg" alt="Code360 / CodingNinjas" height="40" width="40" />
+  </a>
 
 </p>
 
