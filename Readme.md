@@ -62,7 +62,7 @@
     <img src="https://codolio.com/codolio_assets/codolio.svg" alt="Codolio" height="40" width="40" />
   </a>
   <a href="https://www.geeksforgeeks.org/user/likhithed6qu1/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" height="40" width="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" height="50" width="40" />
   </a>
 
 </p>
