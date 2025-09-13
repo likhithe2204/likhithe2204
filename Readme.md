@@ -61,6 +61,12 @@
   <a href="https://www.naukri.com/code360/profile/codebylikhith" target="_blank">
     <img src="https://www.svgrepo.com/show/330198/codingninjas.svg" alt="Code360 / CodingNinjas" height="40" width="40" />
   </a>
+    
+  <a href="https://www.naukri.com/code360/profile/codebylikhith" target="_blank">
+    <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="#FF5722">
+      <path d="M18.156 3.098c-1.035-.43-2.24-.794-3.547-.794-2.773 0-4.934 1.488-4.934 4.82 0 3.08 2.074 4.02 3.707 4.695l.82.34c1.223.514 2.215.93 2.215 2.086 0 1.02-.879 1.707-2.227 1.707-1.32 0-2.672-.57-3.598-1.141l-1.027 2.543c1.086.715 2.887 1.293 4.66 1.293 3.41 0 5.188-1.832 5.188-4.418 0-2.465-1.867-3.387-3.414-4.047l-.82-.352c-1.168-.492-2.07-.871-2.07-1.926 0-.84.746-1.465 1.926-1.465 1.02 0 2.016.367 2.66.715zm-14.156.902h3v13h-3z"/>
+    </svg>
+  </a>
 
 </p>
 
