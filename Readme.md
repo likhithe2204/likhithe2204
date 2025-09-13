@@ -50,6 +50,9 @@
 
 <h3 align="center">📉 Connect with me</h3>
 <p align="center">
+  <a href="https://www.naukri.com/code360/profile/codebylikhith" target="_blank">
+    <img src="https://cdn.simpleicons.org/codingninjas/FF6F00" alt="Code360 by Coding Ninjas" height="40" width="40" />
+  </a>
   <a href="https://www.linkedin.com/in/likhith-edupuganti-36a869258/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
@@ -58,19 +61,9 @@
   <a href="https://codolio.com/profile/Likhith22" target="_blank">
     <img src="https://codolio.com/codolio_assets/codolio.svg" alt="Codolio" height="40" width="40" />
   </a>
-  <a href="https://www.naukri.com/code360/profile/codebylikhith" target="_blank">
-    <img src="https://www.svgrepo.com/show/330198/codingninjas.svg" alt="Code360 / CodingNinjas" height="40" width="40" />
-  </a>
   <a href="https://www.geeksforgeeks.org/user/likhithed6qu1/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" height="40" width="40" />
   </a>
-  <!-- Code360 (Coding Ninjas) -->
-<a href="https://www.naukri.com/code360/profile/codebylikhith" target="_blank">
-  <img src="https://cdn.simpleicons.org/codingninjas/FF6F00" alt="Code360 by Coding Ninjas" height="40" width="40" />
-</a>
-
-
-
 
 </p>
 
