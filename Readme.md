@@ -28,6 +28,9 @@
   <a href="https://leetcode.com/u/notLikhith/" target="_blank">
     <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50 Days badge of 2024" height="200" width="200" />
   </a>
+  <a href="https://leetcode.com/medal/?showImg=0&id=8120323&isLevel=false" target="_blank">
+    <img align="center" src="https://leetcode.com/medal/?showImg=0&id=8120323&isLevel=false" alt="200 Days Badge of 2025" height="200" width="200" />
+  </a>
   <a href="https://leetcode.com/u/notLikhith/" target="_blank">
     <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="100 Days of 2024" height="200" width="200" />
   </a>
