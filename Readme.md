@@ -14,7 +14,7 @@
   <li>🌱 I’m learning <strong>Java</strong></li>
   <li>💼 Internships at <strong>Edunet Foundation (AI/ML)</strong> & <strong>Raise Digital (Frontend Dev)</strong></li>
   <li>👨‍💻 Portfolio: <a href="https://portfoliobylikhith.netlify.app/">My Portfolio</a></li>
-  <li>📢 Reach me at: <strong>likhith_edupuganti@srmap.edu.in</strong></li>
+  <li>📢 Reach me at: <strong>elikhith22@gmail.com</strong></li>
 </ul>
 
 <hr/>
