@@ -8,6 +8,9 @@
 <p align="center"> 
   <img src="https://github-profile-trophy.vercel.app/?username=likhithe2204&theme=darkhub&margin-w=15&margin-h=15&no-frame=true&row=1&column=6" />
 </p>
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=likhithe2204&theme=github_dark"/>
+</p>
 
 <ul>
   <li>🔭 I’m currently working on <strong>Machine Learning & Web Projects</strong></li>
