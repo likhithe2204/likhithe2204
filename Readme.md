@@ -5,9 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=likhithe2204&label=Profile%20views&color=0e75b6&style=flat" alt="likhithe2204" />  
 </p>        
   
-<p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=likhithe2204&theme=darkhub&margin-w=15&margin-h=15&no-frame=true&row=1&column=6" />
-</p>
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=likhithe2204&theme=github_dark"/>
 </p>
