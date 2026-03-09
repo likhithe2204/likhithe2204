@@ -102,8 +102,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=likhithe2204&layout=compact&theme=radical" width="50%" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=likhithe2204&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=likhithe2204&theme=github_dark"/>
 </p>
 
 <hr/>
